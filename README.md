@@ -17,6 +17,6 @@ API test for testing users endpoint of https://gorest.co.in endpoint
 Prerequisites
 Install prequisites using the below command
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 To run the tests type the command py.test test_api.py
