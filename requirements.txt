@@ -1,3 +1,0 @@
-pytest==7.1.0
-PyYAML==5.4
-requests~=2.18.4
